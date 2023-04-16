@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">App_learning_with_java</string>
+    <string name="first_button_name">First Button</string>
+    <string name="button">Button</string>
+    <string name="app_bar_main_activity_text">Погода в вашем городе</string>
+    <string name="hint_user_field">Введите город</string>
+    <string name="click_to_know">Нажмите чтобы узнать</string>
+    <string name="toast_empty_field">Empty Field</string>
 </resources>
